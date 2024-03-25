@@ -18,7 +18,7 @@ body{
 
     padding-bottom: 1rem;
 
-    background-color:darkslategray;
+    background-color:darkgray;
 
     margin-top: 5rem;
     width: 35em;
@@ -45,7 +45,7 @@ nav a {
     margin-left: 1rem;
     margin-right: 1rem;
 
-    color: green;
+    color: gray;
 
     font-size: large;
 
